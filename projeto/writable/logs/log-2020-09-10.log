@@ -1,0 +1,129 @@
+CRITICAL - 2020-09-10 14:39:28 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 15:28:02 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 15:53:22 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 15:53:23 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 15:55:46 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 15:55:47 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 15:55:47 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 16:01:36 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 16:01:36 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 16:04:31 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 16:04:34 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 16:04:52 --> Unable to connect to the database.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(646): CodeIgniter\Database\BaseConnection->initialize()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(17): CodeIgniter\Model->findAll()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-10 16:09:45 --> There is no data to {0}.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(700): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Models\VehicleModel.php(25): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(36): App\Models\VehicleModel->createVehicle(Array)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->create_vehicle()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

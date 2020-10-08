@@ -1,0 +1,79 @@
+CRITICAL - 2020-09-24 15:53:56 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('makes')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('makes')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 15:54:09 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('makes/list')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('makes/list')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 15:54:59 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('makes/list')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('makes/list')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 15:55:05 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('Makes/list')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('Makes/list')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 15:55:21 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('makes/list')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('makes/list')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 15:57:09 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('makes/list')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('makes/list')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 15:59:15 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('makes/list')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('makes/list')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 16:00:04 --> syntax error, unexpected '?>', expecting function (T_FUNCTION) or const (T_CONST)
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Router\Router.php(195): CodeIgniter\Router\Router->autoRoute('makes')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(796): CodeIgniter\Router\Router->handle('makes')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(367): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2020-09-24 16:00:31 --> Undefined variable: tabledata
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Views\Makes\list.php(4): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 4, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('Makes/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Makes.php(21): view('Makes/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\makes->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\makes))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-09-24 16:35:00 --> SQLite3::query(): Unable to prepare statement: 1, no such table: event_type
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'SQLite3::query(...', 'C:\\xampp\\htdocs...', 184, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\SQLite3\Connection.php(184): SQLite3->query('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(741): CodeIgniter\Database\SQLite3\Connection->execute('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseConnection.php(669): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Database\BaseBuilder.php(1860): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(462): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\event.php(13): CodeIgniter\Model->findAll()
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#8 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#9 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#11 {main}

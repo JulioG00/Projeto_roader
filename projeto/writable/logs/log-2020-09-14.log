@@ -1,0 +1,9 @@
+CRITICAL - 2020-09-14 18:20:44 --> There is no data to {0}.
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Model.php(700): CodeIgniter\Database\Exceptions\DataException::forEmptyDataset('insert')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Models\VehicleModel.php(25): CodeIgniter\Model->insert(NULL)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(36): App\Models\VehicleModel->createVehicle(Array)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->create_vehicle()
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#7 {main}

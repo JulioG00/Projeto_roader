@@ -1,0 +1,72 @@
+CRITICAL - 2020-09-19 12:15:33 --> Class 'App\Controllers\VehicleModel' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:18:10 --> Class 'App\Models\eventModel' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:19:25 --> Class 'App\Controllers\event_teste' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:21:43 --> Class 'App\Models\eventModel' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:25:16 --> Class 'App\Controllers\event_test' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:35:42 --> Class 'App\Controllers\event_test' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:35:42 --> Class 'App\Controllers\event_test' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:37:16 --> Class 'App\Models\VehicleModel' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:37:39 --> Class 'App\Controllers\Vehicle_Model' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:38:00 --> Class 'App\Controllers\Vehicle_Model' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:38:01 --> Class 'App\Controllers\Vehicle_Model' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2020-09-19 12:38:08 --> Class 'App\Controllers\Vehicle_Model' not found
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#4 {main}

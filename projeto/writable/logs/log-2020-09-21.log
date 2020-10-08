@@ -1,0 +1,32 @@
+CRITICAL - 2020-09-21 16:15:18 --> syntax error, unexpected '"<Center>"' (T_CONSTANT_ENCAPSED_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('eventTest/event...', Array, true)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\event.php(17): view('eventTest/event...', Array)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-09-21 16:18:48 --> syntax error, unexpected 'text' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('eventTest/event...', Array, true)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\event.php(17): view('eventTest/event...', Array)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-09-21 16:18:50 --> syntax error, unexpected 'text' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('eventTest/event...', Array, true)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\event.php(17): view('eventTest/event...', Array)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2020-09-21 16:19:26 --> syntax error, unexpected 'text' (T_STRING), expecting ';' or ','
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('eventTest/event...', Array, true)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\event.php(17): view('eventTest/event...', Array)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\event->list()
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\event))
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#6 {main}
