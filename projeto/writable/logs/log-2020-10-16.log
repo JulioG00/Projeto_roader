@@ -29,3 +29,63 @@ CRITICAL - 2020-10-16 14:13:21 --> Undefined variable: classlabel
 #6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
 #7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
 #8 {main}
+CRITICAL - 2020-10-16 15:51:31 --> Undefined variable: id
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Views\vehicle\create.php(5): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/create', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(25): view('vehicle/create')
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->createForm()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-16 16:01:03 --> Undefined variable: value
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Views\vehicle\list.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->index()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-16 16:01:16 --> Undefined variable: value
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Views\vehicle\list.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->index()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-16 16:01:19 --> Undefined variable: value
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Views\vehicle\list.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->index()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-16 16:01:59 --> Undefined variable: value
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Views\vehicle\list.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->index()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-16 16:02:26 --> Undefined variable: value
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Views\vehicle\list.php(16): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined varia...', 'C:\\xampp\\htdocs...', 16, Array)
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(246): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->index()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

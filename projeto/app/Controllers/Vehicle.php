@@ -8,7 +8,7 @@ use App\Models\VehicleModel;
 
 class Vehicle extends BaseController
 {
-	public function list() { // This is the Read portion of the cRud
+	public function index() { // This is the Read portion of the cRud
 
     $dataModel = new VehicleModel;
 
@@ -20,9 +20,14 @@ class Vehicle extends BaseController
 
 	}
 
-	public function createForm() { // This is the Create portion of the Crud
+	public function form($id = 0) { // This is the Create portion of the Crud
+		$dataModel = new VehicleModel;	
+		
+		if($id!=0)$data['vehicleData'] = $dataModel->find($id);
 
-		echo view('vehicle/create');
+        $data['id'] = $id;
+
+		echo view('vehicle/form', $data);
 
 	}
 
@@ -35,7 +40,7 @@ class Vehicle extends BaseController
 
 		$dataModel->createVehicle($formData);
 
-		return redirect()->to(base_url('public/vehicle/list'));
+		return redirect()->to(base_url('public/vehicle/index'));
 
 	}
 
@@ -45,7 +50,7 @@ class Vehicle extends BaseController
 		$dataModel->delete($id);
 
 
-		return redirect()->to(base_url('public/vehicle/list'));
+		return redirect()->to(base_url('public/vehicle/index'));
 
 	}
 
