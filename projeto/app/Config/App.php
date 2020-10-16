@@ -21,7 +21,7 @@ class App extends BaseConfig
 	| environments.
 	|
 	*/
-	public $baseURL = 'http://localhost:8080/Projeto_roader/projeto';
+	public $baseURL = 'http://localhost:80/2ds_ermelinda/Projeto_roader/projeto';
 
 	/*
 	|--------------------------------------------------------------------------

@@ -1,0 +1,50 @@
+CRITICAL - 2020-10-13 16:49:22 --> Invalid file: {0}
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Templates/defau...')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(257): CodeIgniter\View\View->render('Templates/defau...', Array, true)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-13 17:16:40 --> Invalid file: {0}
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../Templates/de...')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(257): CodeIgniter\View\View->render('../Templates/de...', Array, true)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-13 18:25:16 --> Invalid file: {0}
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('public/default....')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(257): CodeIgniter\View\View->render('public/default', Array, true)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-13 18:25:43 --> Invalid file: {0}
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../public/defau...')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(257): CodeIgniter\View\View->render('../public/defau...', Array, true)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2020-10-13 18:25:45 --> Invalid file: {0}
+#0 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(228): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('../public/defau...')
+#1 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\View\View.php(257): CodeIgniter\View\View->render('../public/defau...', Array, true)
+#2 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\Common.php(1119): CodeIgniter\View\View->render('vehicle/list', Array, true)
+#3 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\app\Controllers\Vehicle.php(19): view('vehicle/list', Array)
+#4 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(921): App\Controllers\Vehicle->list()
+#5 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(407): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Vehicle))
+#6 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\system\CodeIgniter.php(315): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\2ds_ermelinda\Projeto_roader\projeto\public\index.php(45): CodeIgniter\CodeIgniter->run()
+#8 {main}

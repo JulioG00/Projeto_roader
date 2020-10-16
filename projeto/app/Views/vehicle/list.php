@@ -9,10 +9,35 @@
 
 $table = new \CodeIgniter\View\Table();
 
-echo $title;
+//echo $title;
 
-echo anchor('../public/vehicle/createForm', 'Create Vehicle');
 
+echo anchor('../public/vehicle/createForm', '<button class="btn btn-xs btn-success "><span class="bigger-110">Create Vehicle</span><i class="ace-icon fa fa-plus icon-on-right"></i></button>');
+
+foreach($tableData as $key => $value){
+    $tableData[$key]["delete"] = anchor( "../public/vehicle/delete_vehicle/" . $value['id'] , '<button class="btn btn-xs btn-danger"><i class="ace-icon fa fa-trash-o bigger-120"></i></button>');
+}
+
+
+$tbheading = [
+    "id",
+	"vehicleName",
+	"registration",	
+	"make",
+	"model",
+	"kmInitial" ,
+	"dateAdded",
+	"ops",
+
+];
+
+$template = [
+    'table_open' => '<table  class="table  table-bordered table-hover">'
+];
+
+$table->setTemplate($template);
+
+$table->setHeading($tbheading);
 
 echo $table->generate($tableData);
 
